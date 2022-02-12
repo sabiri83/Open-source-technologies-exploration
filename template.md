@@ -1,7 +1,5 @@
-## BTS 
-
-
-### Brief description (3 to 4 sentences)  
+## DBT : DATA TRANSFORMATION
+### Brief description:  
 	Historique 
 •	2016 : commencé chez RJMetrics 
 •	2018 : acquis par Talend, avec lancement du 1ere produit commercial
