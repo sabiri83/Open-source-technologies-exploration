@@ -142,5 +142,6 @@ Les recommandations des bonnes pratiques DBT :
 •	rpc (CLI only): runs an RPC server that clients can submit queries to
 
 •	run-operation: runs arbitrary maintenance SQL against the database
+## Conclusion
 
 
